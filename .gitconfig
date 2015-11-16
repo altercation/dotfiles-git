@@ -1,0 +1,8 @@
+[user]
+	email = es@ethanschoonover.com
+	name = Ethan Schoonover (altercation)
+[merge]
+	tool = vimdiff
+	conflictstyle = diff3
+[mergetool]
+	prompt = false
